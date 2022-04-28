@@ -102,7 +102,7 @@ for ( let zucchina of arrZucchine){
        
     }
     console.log("il peso totale delle zucchine piccole è :",totaleSommaGrandi);
-    
+
     //ciclo calcolo somma peso zucchine grandi
     for( let zucchina of arrZucchinePiccole){
         console.log(zucchina);
@@ -117,6 +117,14 @@ for ( let zucchina of arrZucchine){
        
     }
     console.log("il peso totale delle zucchine piccole è :",totaleSommaPiccole);
+
+
+
+
+
+    
+
+
 
     
 
